@@ -23,7 +23,6 @@ Additional files:
 
 Input: challenge spec which a string and can either be with or without the HTML
 
-
 The project consists of three part:
     1) EMSI skill Extraction: As per the guidelines, I have use the EMSI Skill API for extracting skills from the challenge spec.
     2) The Problem domain tagger
