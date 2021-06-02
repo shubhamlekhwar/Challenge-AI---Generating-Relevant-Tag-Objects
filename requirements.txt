@@ -15,7 +15,7 @@ Pillow==5.0.0
 requests==2.20.1
 scipy==1.1.0
 tensorflow
-urllib3==1.24.1
+urllib3==1.26.5
 gunicorn
 imutils
 scikit-learn==0.21.3
