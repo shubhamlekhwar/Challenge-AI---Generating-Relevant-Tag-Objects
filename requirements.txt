@@ -9,7 +9,7 @@ Keras==2.2.4
 Keras-Applications==1.0.6
 Keras-Preprocessing==1.0.5
 matplotlib==3.0.2
-numpy==1.18
+numpy==1.22.0
 pandas==0.23.4
 Pillow==5.0.0
 requests==2.20.1
